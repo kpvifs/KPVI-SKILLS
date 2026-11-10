@@ -1,5 +1,7 @@
 # 说服教练 / 表达教练
 
+简体中文 | [English](README.en.md) | [日本語](README.ja.md)
+
 两个 Claude Code Skill 的框架，基于黄执中「说服力三十五日训练营」35 节课设计。
 
 | 目录 | Skill | 管什么 |
